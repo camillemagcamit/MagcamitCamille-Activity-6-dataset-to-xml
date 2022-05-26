@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<!DOCTYPE arrest_national_drug [
+	<!ELEMENT arrest_national_drug (and-data)>
+	<!ELEMENT and-data (year, agencies, population, total_arrest, total_manufacture, opioid_manufacture, marijuana_manufacture, synthetic_manufacture, total_possess, other_possess)>
+	<!ELEMENT year (#PCDATA)>
+	<!ELEMENT agencies (#PCDATA)>
+	<!ELEMENT population (#PCDATA)>
+	<!ELEMENT total_arrest (#PCDATA)>
+	<!ELEMENT total_manufacture (#PCDATA)>
+	<!ELEMENT opioid_manufacture (#PCDATA)>
+	<!ELEMENT marijuana_manufacture (#PCDATA)>
+	<!ELEMENT synthetic_manufacture (#PCDATA)>
+	<!ELEMENT total_possess (#PCDATA)>
+	<!ELEMENT other_possess (#PCDATA)>
+
+	<!ATTLIST and-data id CDATA #REQUIRED>
+]>
+
+<arrest_national_drug>
+
+	<and-data id ="37">
+		<year> 2016 </year>
+		<agencies> 13310 </agencies>
+		<population> 2.65E+08 </population>
+		<total_arrest> 1285186 </total_arrest>
+		<total_manufacture> 187557 </total_manufacture>
+		<opioid_manufacture> 65790 </opioid_manufacture>
+		<marijuana_manufacture> 51422 </marijuana_manufacture>
+		<synthetic_manufacture> 19571 </synthetic_manufacture>
+		<total_possess> 49992 </total_possess>
+		<other_possess> 1057698 </other_possess>
+	</and-data>
+
+	<and-data id ="36">
+		<year> 2015 </year>
+		<agencies> 13404 </agencies>
+		<population> 2.61E+08 </population>
+		<total_arrest> 1194910 </total_arrest>
+		<total_manufacture> 188123 </total_manufacture>
+		<opioid_manufacture> 64117 </opioid_manufacture>
+		<marijuana_manufacture> 53387 </marijuana_manufacture>
+		<synthetic_manufacture> 21392 </synthetic_manufacture>
+		<total_possess> 48531 </total_possess>
+		<other_possess> 961035 </other_possess>
+	</and-data>
+
+	<and-data id ="35">
+		<year> 2014 </year>
+		<agencies> 12854 </agencies>
+		<population> 2.56E+08 </population>
+		<total_arrest> 1252378 </total_arrest>
+		<total_manufacture> 205505 </total_manufacture>
+		<opioid_manufacture> 69623 </opioid_manufacture>
+		<marijuana_manufacture> 63298 </marijuana_manufacture>
+		<synthetic_manufacture> 22733 </synthetic_manufacture>
+		<total_possess> 49753 </total_possess>
+		<other_possess> 1011167 </other_possess>
+	</and-data>
+
+	<and-data id ="34">
+		<year> 2013  </year>
+		<agencies> 12397 </agencies>
+		<population> 2.57E+08 </population>
+		<total_arrest> 1288009 </total_arrest>
+		<total_manufacture> 220903 </total_manufacture>
+		<opioid_manufacture> 70841 </opioid_manufacture>
+		<marijuana_manufacture> 76840 </marijuana_manufacture>
+		<synthetic_manufacture> 23012 </synthetic_manufacture>
+		<total_possess> 50182 </total_possess>
+		<other_possess> 1024667 </other_possess>
+	</and-data>
+
+	<and-data id ="33">
+		<year> 2012 </year>
+		<agencies> 12850 </agencies>
+		<population> 2.55E+08 </population>
+		<total_arrest> 1247720 </total_arrest>
+		<total_manufacture> 214002 </total_manufacture>
+		<opioid_manufacture> 72417 </opioid_manufacture>
+		<marijuana_manufacture> 70201 </marijuana_manufacture>
+		<synthetic_manufacture> 22441 </synthetic_manufacture>
+		<total_possess> 48183 </total_possess>
+		<other_possess> 990089 </other_possess>
+	</and-data>
+
+	<and-data id ="32">
+		<year> 2011 </year>
+		<agencies> 12628 </agencies>
+		<population> 2.51E+08 </population>
+		<total_arrest> 1211285 </total_arrest>
+		<total_manufacture> 212472 </total_manufacture>
+		<opioid_manufacture> 72813 </opioid_manufacture>
+		<marijuana_manufacture> 72002 </marijuana_manufacture>
+		<synthetic_manufacture> 21332 </synthetic_manufacture>
+		<total_possess> 46324 </total_possess>
+		<other_possess> 952315 </other_possess>
+	</and-data>
+
+	<and-data id ="31">
+		<year> 2010 </year>
+		<agencies> 12727 </agencies>
+		<population> 2.49E+08 </population>
+		<total_arrest> 1306285 </total_arrest>
+		<total_manufacture> 229771 </total_manufacture>
+		<opioid_manufacture> 78799 </opioid_manufacture>
+		<marijuana_manufacture> 79720 </marijuana_manufacture>
+		<synthetic_manufacture> 23225 </synthetic_manufacture>
+		<total_possess> 48030 </total_possess>
+		<other_possess> 1025788 </other_possess>
+	</and-data>
+
+	<and-data id ="30">
+		<year> 2009 </year>
+		<agencies> 12923 </agencies>
+		<population> 2.48E+08 </population>
+		<total_arrest> 1333073 </total_arrest>
+		<total_manufacture> 236860 </total_manufacture>
+		<opioid_manufacture> 90690 </opioid_manufacture>
+		<marijuana_manufacture> 77528 </marijuana_manufacture>
+		<synthetic_manufacture> 23042 </synthetic_manufacture>
+		<total_possess> 45596 </total_possess>
+		<other_possess> 1044031 </other_possess>
+	</and-data>
+
+	<and-data id ="29">
+		<year> 2008 </year>
+		<agencies> 12302 </agencies>
+		<population> 2.4E+08 </population>
+		<total_arrest> 1340654 </total_arrest>
+		<total_manufacture> 228058 </total_manufacture>
+		<opioid_manufacture> 98333 </opioid_manufacture>
+		<marijuana_manufacture> 71418 </marijuana_manufacture>
+		<synthetic_manufacture> 19505 </synthetic_manufacture>
+		<total_possess> 38803 </total_possess>
+		<other_possess> 1058663 </other_possess>
+	</and-data>
+
+	<and-data id ="28">
+		<year> 2007 </year>
+		<agencies> 12363 </agencies>
+		<population> 2.35E+08 </population>
+		<total_arrest> 1425171 </total_arrest>
+		<total_manufacture> 238387 </total_manufacture>
+		<opioid_manufacture> 106117 </opioid_manufacture>
+		<marijuana_manufacture> 72100 </marijuana_manufacture>
+		<synthetic_manufacture> 20256 </synthetic_manufacture>
+		<total_possess> 39895 </total_possess>
+		<other_possess> 1120966 </other_possess>
+	</and-data>
+  
+
+ </arrest_national_drug>
+		
